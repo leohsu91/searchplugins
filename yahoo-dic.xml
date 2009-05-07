@@ -1,0 +1,8 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Yahoo!辞書</os:ShortName>
+<os:Description>Yahoo!辞書で単語を調べます。</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/x-icon;base64,R0lGODlhEAAQAOZBADjP/2LQ88tHQK7r//+tHpEfG/98MLIeHtowMNo3N+7Go6IeG////+U1NPDrnLJPMdY0M+WcW6ofHsRcONw3NpUdG8ZQTKRmXdeBa9pgUv/0lOU0NNp9adM6N+oyMtg4N4cwLNA3NM5eSp8dHbQeHb8bG9BHQ3UdG6MgHcMZGaIgHeAzMp0hHqseHec0NMwyMudRSrocG9kxMfjPq7ceHe7VssBmVemkiL4eHtY3N7geHaZZSOO1lLAdHOkvLyqi8lBQUP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAEEALAAAAAAQABAAAAeXgEGCg0FAQIKHhISGDw+GBYmLQDsRhkAFJ5GIFxEOQD8BP5eaQBManj8DDAOipBkiNkABDAAAAYaLMzU8nwO1rYswHBgWn6FAI6Q+Mi8hEpYEuINAHg0JHQcxJUAG0YsrGw0fEgc0ONzeiBAULgkqLQc6KdyRQBAICDksKD0klvUKFNwwUWHBAk3TBCgUAEKaIkT/Hg4KBAA7</os:Image>
+<os:Url type="text/html" method="GET" template="http://dic.yahoo.co.jp/dsearch?enc=UTF-8&amp;dtype=2&amp;stype=0&amp;p={searchTerms}">
+</os:Url>
+</SearchPlugin>

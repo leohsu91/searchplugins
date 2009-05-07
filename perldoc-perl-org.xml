@@ -1,0 +1,9 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>perldoc.perl.org</os:ShortName>
+<os:Description>Search perldoc.perl.org</os:Description>
+<os:InputEncoding>ISO-8859-1</os:InputEncoding>
+<os:Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAAAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAD///8AewAAAAB7AAB7ewAAAAB7AHsAewAAe3sAvb29AHt7ewD/AAAAAP8AAP//AAAAAP8A/wD/AAD//wAAAAAA///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////w/////////////////////zNs/L/vGObX6/D22wAA+ukAAvjDYWz8A3Rl+AJDb/ACciDgAVzQ4AMRAOYPv+YnHwACB/8ABof/MoDj/zHg</os:Image>
+<os:Url type="text/html" method="GET" template="http://perldoc.perl.org/search.html?q={searchTerms}">
+</os:Url>
+<SearchForm>http://perldoc.perl.org/</SearchForm>
+</SearchPlugin>
